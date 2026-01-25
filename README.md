@@ -3,7 +3,7 @@ This notebook shows how to use Parameter-Efficient Fine-Tuning (PEFT) to train a
 
 ![banner](https://raw.githubusercontent.com/bshtmichielsen/expert_chat/refs/heads/main/BANNER.jpg)
 
-*Image by Stable Diffusion: a robot explaining board games to a group of human players*
+*Image by Stable Diffusion: a machine explaining board games to children*
 
 This notebook is intentionally designed as a foundational starting point and does not strictly adhere to established best practices as it is meant as a learning opportunity. This repo belongs to a five part course:&nbsp;&nbsp;&nbsp; 🏠&nbsp;[House&nbsp;Price&nbsp;Predictor](https://github.com/bshtmichielsen/house_price_predictor)&nbsp;&nbsp;&nbsp; 🐏&nbsp;[Animal&nbsp;Sound&nbsp;Identifier](https://github.com/bshtmichielsen/animal_sound_identifier)&nbsp; &nbsp;👗&nbsp;[Clothing&nbsp;Sorter](https://github.com/bshtmichielsen/clothing_sorter)&nbsp;&nbsp;&nbsp; 🍎&nbsp;[Fruit&nbsp;Detector](https://github.com/bshtmichielsen/expert_chat)&nbsp;&nbsp;&nbsp; 💬&nbsp;[Expert&nbsp;Chat](https://github.com/bshtmichielsen/expert_chat)&nbsp; Feel free to learn from the other parts too!
 
