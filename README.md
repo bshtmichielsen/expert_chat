@@ -27,4 +27,4 @@ The following is a list of considerations for improvement or for your own projec
 ## ⭐ Citation & Star
 If you use my work please cite and star ⭐ this repo. Thanks!
 
-Michielsen, Bas S.H.T. (2025) "Expert Chat" GitHub: https://github.com/bshtmichielsen/expert_chat
+Michielsen, Bas S.H.T. (2026) "Expert Chat" GitHub: https://github.com/bshtmichielsen/expert_chat
